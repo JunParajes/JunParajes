@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JunParajes
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me is via email: ethelparajes@gmail.com
 
